@@ -4,7 +4,7 @@
 
 Add links back to Jupyterhub(k8s) control panel.
 
-
+![Preview effect](preview.jpg)
 
 ## Requirements
 
