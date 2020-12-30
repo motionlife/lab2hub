@@ -1,0 +1,5 @@
+{
+  "packageManager": "pip",
+  "packageName": "lab2hub",
+  "uninstallInstructions": "Use your Python package manager (pip, conda, etc.) to uninstall the package lab2hub"
+}
