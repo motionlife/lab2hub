@@ -27,7 +27,7 @@ const extension: JupyterFrontEndPlugin<void> = {
     // Add a command
     const cmd2home = 'lab2hub:home';
     commands.addCommand(cmd2home, {
-      label: 'Return to Home',
+      label: 'Control Panel',
       caption: 'Navigate to the Control Panel on JupyterHub',
       execute: (args: any) => {
         location.assign(location.origin + '/home');
